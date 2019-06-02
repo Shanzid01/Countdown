@@ -1,5 +1,4 @@
-# Countdown
-Countdown timer (#learningReact)
+<h2>Countdown timer</h2> (#learningReact)
 <b><a href="https://shanzid01.github.io/Countdown/">https://shanzid01.github.io/Countdown/</a></b>
 <br/>
 My first complete project in ReactJS.
